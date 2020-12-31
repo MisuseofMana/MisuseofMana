@@ -14,7 +14,7 @@ Starting January 2021 I'm focusing on improving and updating [Moebius Dungeons](
 
 Any issues can be brought to my attention via [the issues tab of the Moebius Dungeons repository.](https://github.com/MisuseofMana/moebiusDungeons) :warning:
 
-## I'm currently looking for a job working with Vue JS to creat unique experiences on the web, please feel free to reach out to me via contact@seanyager.com with any questions or leads. :mailbox:
+## I'm currently looking for a job working with Vue JS to create unique experiences on the web, please feel free to reach out to me via contact@seanyager.com with any questions or leads. :mailbox:
 
 I love talking about Vue.js so email me if you're curious about any of my code, or want to make a connection please reach out!
 
