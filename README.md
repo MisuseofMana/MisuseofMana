@@ -14,7 +14,7 @@ Starting January 2021 I'm focusing on improving and updating [Moebius Dungeons](
 <h1 align="center">
  :video_game:
 <a href="https://moebiusdungeons.com">Moebius Dungeons</a>
- :video_game
+ :video_game:
 </h1>
 
 
