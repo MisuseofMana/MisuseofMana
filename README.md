@@ -8,15 +8,11 @@ Starting January 2021 I'm focusing on improving and updating [Moebius Dungeons](
 
 <!-- ![Moebius Dungeons](moduncard.png) -->
 
- The game always needs playtesting, so if you'd like check out the current build it's at the link below.
+ The game always needs playtesting, so if you'd like play the current build click the image below.
 
-
-<h1 align="center">
- :video_game:
-<a href="https://moebiusdungeons.com">Moebius Dungeons</a>
- :video_game:
-</h1>
-
+<a href="https://moebiusdungeons.com">
+    <img src="moduncard.png">
+</a>
 
 Any issues can be brought to my attention via [the issues tab of the Moebius Dungeons repository.](https://github.com/MisuseofMana/moebiusDungeons) :warning:
 
