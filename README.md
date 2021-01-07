@@ -8,7 +8,7 @@ Starting January 2021 I'm focusing on improving and updating [Moebius Dungeons](
 
 <!-- ![Moebius Dungeons](moduncard.png) -->
 
- The game always needs playtesting, so if you'd like play the current build click the image below.
+ The game always needs playtesting, so if you'd like to play the current build click the image below.
 
 <a href="https://moebiusdungeons.com">
     <img src="moduncard.png">
