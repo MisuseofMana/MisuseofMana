@@ -2,19 +2,7 @@
 
 ---
 
-### Yo! I'm Sean Yager, a Full Stack Web Developer specializing in Frontend UI/UX using Vue as a framework. I'm also learning React JS.
-
-Starting January 2021 I'm focusing on improving and updating [Moebius Dungeons](https://moebiusdungeons.com/), my Vue JS experiment that aims to create a fully fledged Monster Brawler RPG in browser. :crossed_swords:
-
-<!-- ![Moebius Dungeons](moduncard.png) -->
-
- The game always needs playtesting, so if you'd like to play the current build click the image below.
-
-<a href="https://moebiusdungeons.com">
-    <img src="moduncard.png">
-</a>
-
-Any issues can be brought to my attention via [the issues tab of the Moebius Dungeons repository.](https://github.com/MisuseofMana/moebiusDungeons) :warning:
+### Hey there! I'm Sean Yager, a Senior Front End Web Developer.
 
 ### [Linked In](https://www.linkedin.com/in/seanyager/) | [Portfolio](https://www.seanyager.com/) | [My Instagram](https://www.instagram.com/misuseofmana/)  
 
