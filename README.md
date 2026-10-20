@@ -4,7 +4,7 @@
 
 ### Hey there! I'm Sean Yager, a Senior Front End Web Developer.
 
-### [Linked In](https://www.linkedin.com/in/seanyager/) | [Portfolio](https://www.seanyager.com/) | [My Instagram](https://www.instagram.com/misuseofmana/)  
+### [Linked In](https://www.linkedin.com/in/seanyager/) | [Portfolio](https://www.seanyager.com/)
 
 My pronouns are he/him.
 
